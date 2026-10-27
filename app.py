@@ -1,3 +1,4 @@
+# KR2: Gabdushov
 import os
 import socket
 
